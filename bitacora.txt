@@ -6,88 +6,88 @@ Error 1
 2:Alta
 3:Se revisaron las credenciales y la configuracion de conexion
 4:Conexion corregida
-5:Joshua
+5:Aldo
 
 Error 2
 1:Consulta lenta en base de datos
 2:Media 
 3:Revisar que no haya funciones dobles o codigo que haga la misma funcion dos veces eh intentar de optimimzar lo maximo posible 
 4:Consultas mas rapidas
-5:Joshua
+5:Aldo
 
 Error 3
 1:Datos duplicados o que no se guardan
 2:Alta
 3:Revisar porque los datos no se guardan si el codigo esta bien escrito y depurar los datos duplicados
 4:Los datos se aguardan correctamente y no hay datos dobles
-5:Joshua
+5:Aldo
 
 Error 4
 1:Vulneravilidad de inyecciones de SQL
 2:Alta
 3:Separar siempre el código de la consulta SQL de los datos que introduce el usuario
 4:Baja el riesgo de ser Vulnerado con inyecciones SQL
-5:Joshua  
+5:Aldo
 
 Error 5
 1:Diseño no responsivo en celurares y computadoras
 2:Medida
 3:Realizar los ajustes que sean necesario en el front para que puedas interactuar con  la base de datos correctamente
 4:Diseño responsivo en computadoras y celurares
-5:Joshua
+5:Aldo
 
 Error 6
 1:Enlaces rotos error 404
 2:Media
 3:Revisar que el enlace al que se quiere entrar sea el correcto y que no haya cambiado de URL
 4:Se encuentra la pagina buscada
-5:Joshua
+5:Aldo
 
 Error 7
 1:Inconpatibilidad con el navegador y envio de datos no validos
 2:Media
 3:Revisar validaciones en el navegador para evitar el envío de datos no válidos desde la interfaz y validaciones en el servidor como medida de seguridad estricta
 4:los usuario de navegadores mas antiguos ya no tienen problemas y ya no colapsa al recibir datos incorrectos
-5:Joshua
+5:Aldo
 
 Error 8
 1:Inicio de sesion defectuoso
 2:Alta
 3:Revisar en la base de datos que parametro esta ocasionando el problema y porque lo ocasiona 
 4:El inicio de sesion funciona correctamente
-5:Joshua
+5:Aldo
 
 Error 9
 1:Faltas de certificado SSL
 2:Alta
 3:Implementar el certificado SSL de manera gratiuta o de paga dependiendo del nivel de informacion que manejes
 4:Es mas dificil que te roben los datos y es mas seguro para el usuario
-5:Joshua
+5:Aldo
 
 Error 10 
 1:Imagenes o archivos no cargados o no encontrados
 2:Baja
 3:revisar si el directorio de donde se encuntra es el correcto y si esta bien escrito y si es el caso revisar si son compatibles los tipos de archivos
 4:Todos los archvos e Imagenes se cargaran
-5:Joshua
+5:Aldo
 
 Error 11 
 1:Estilos de CSS no validados
 2:Baja
 3:Revisar el codigo css y porque no se validan si esta bien optimizado
 4:Los estilos de CSS funcionan correctamente
-5:Joshua
+5:Aldo
 
 Error 12 
 1:Roles de Usuario descontrolados
 2:Alta
 3:Poner correctamente todos los usuario y que no se salten las jerarquias 
 4:Los usuario nomas pueden hacer lo que su nivel les debia de permetir desde un inicio
-5:Joshua
+5:Aldo
 
 Error 13 
 1:Envio de datos no validos
 2:Alta
 3:Revisar el porque los datos no se envian o no los recibe la base de datos si esta bien conectada
 4:Ahora los datos se envien y reciben correctamente en la base de datos y los usuarios
-5:Joshua
+5:Aldo
